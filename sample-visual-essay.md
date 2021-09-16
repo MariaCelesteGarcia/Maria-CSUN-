@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring" 
-       banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)"
+       banner="https://commons.wikimedia.org/wiki/File:Badianus.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
