@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://en.wikipedia.org/wiki/Rembert_Dodoens#/media/File:Torcksch_Coren_506_Dodoens_1554.png 
+       banner="https://en.wikipedia.org/wiki/Rembert_Dodoens#/media/File:Torcksch_Coren_506_Dodoens_1554.png"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
