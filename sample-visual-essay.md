@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring" 
-       banner="https://commons.wikimedia.org/wiki/File:Badianus.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/e7/Illustration_of_Potato_of_Virginia_Wellcome_L0064345.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
