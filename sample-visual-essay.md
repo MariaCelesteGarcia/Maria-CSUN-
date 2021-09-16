@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring" 
-       banner=https://en.wikipedia.org/wiki/Rembert_Dodoens#/media/File:Torcksch_Coren_506_Dodoens_1554.png
+       banner="Badianus.jpg ‎(443 × 568 pixels, file size: 47 KB, MIME type: image/jpeg)"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
